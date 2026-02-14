@@ -1,6 +1,5 @@
 # Cinema Tickets Booking System - Database Design
 
-![Database Schema](ER%20Diagram.jpg)
 
 ## 📋 Overview
 
