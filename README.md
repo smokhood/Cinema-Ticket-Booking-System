@@ -7,7 +7,6 @@ A relational database management system for cinema ticket booking operations. Th
 
 **Academic Project** | Database Management Systems  
 **Developer:** Ahtisham  
-**Institution:** GC University Lahore
 
 ---
 
